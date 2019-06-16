@@ -1,0 +1,96 @@
+c:\users\marisha_chv\documents\visual studio 2013\Projects\CashOption\CashOption\bin\Debug\CashOption.exe.config
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\bin\Debug\Cash.mdb
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\bin\Debug\CashOption.exe
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\bin\Debug\CashOption.pdb
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\obj\Debug\CashOption.csprojResolveAssemblyReference.cache
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\obj\Debug\CashOption.FormMain.resources
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\obj\Debug\CashOption.FormPrihod.resources
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\obj\Debug\CashOption.FormPrihodAdd.resources
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\obj\Debug\CashOption.Properties.Resources.resources
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\obj\Debug\CashOption.csproj.GenerateResource.Cache
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\obj\Debug\CashOption.exe
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\obj\Debug\CashOption.pdb
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\obj\Debug\CashOption.csproj.ResolveComReference.cache
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\obj\Debug\CashOption.FormRashod.resources
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\CashOption\CashOption\obj\Debug\CashOption.FormRashodAdd.resources
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\bin\Debug\CashOption.exe.config
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\obj\Debug\CashOption.csproj.ResolveComReference.cache
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\obj\Debug\CashOption.exe
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\obj\Debug\CashOption.pdb
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\obj\Debug\CashOption.csprojResolveAssemblyReference.cache
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\obj\Debug\CashOption.FormMain.resources
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\obj\Debug\CashOption.FormPrihod.resources
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\obj\Debug\CashOption.FormPrihodAdd.resources
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\obj\Debug\CashOption.FormRashod.resources
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\obj\Debug\CashOption.FormRashodAdd.resources
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\obj\Debug\CashOption.Properties.Resources.resources
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\obj\Debug\CashOption.csproj.GenerateResource.Cache
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\bin\Debug\Cash.mdb
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\bin\Debug\CashOption.exe
+C:\Users\Marisha_ChV\Documents\Visual Studio 2013\Projects\DIPLOM\CashOption\bin\Debug\CashOption.pdb
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\bin\Debug\CashOption.exe.config
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.csproj.ResolveComReference.cache
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.exe
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.pdb
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\bin\Debug\Cash.mdb
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\bin\Debug\CashOption.exe
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\bin\Debug\CashOption.pdb
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormLogin.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormMain.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormPrihod.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormPrihodAdd.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormRashod.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormRashodAdd.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.Properties.Resources.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.csproj.GenerateResource.Cache
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2\CashOption\bin\Debug\CashOption.exe.config
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2\CashOption\obj\Debug\CashOption.csproj.ResolveComReference.cache
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2\CashOption\obj\Debug\CashOption.exe
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2\CashOption\obj\Debug\CashOption.pdb
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\bin\Debug\CashOption.exe.config
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.csproj.ResolveComReference.cache
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.exe
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.pdb
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\bin\Debug\Cash.mdb
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\bin\Debug\CashOption.exe
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\bin\Debug\CashOption.pdb
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormLogin.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormMain.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormPrihod.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormPrihodAdd.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormRashod.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormRashodAdd.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.Properties.Resources.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.csproj.GenerateResource.Cache
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\bin\Debug\CashOption.exe.config
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.csproj.ResolveComReference.cache
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.exe
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.pdb
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\bin\Debug\Cash.mdb
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\bin\Debug\CashOption.exe
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\bin\Debug\CashOption.pdb
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.csprojResolveAssemblyReference.cache
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormLogin.resources
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormMain.resources
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormPrihod.resources
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormPrihodAdd.resources
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormRashod.resources
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormRashodAdd.resources
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.Properties.Resources.resources
+C:\Users\Marisha_ChV\Desktop\Новая папка\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.csproj.GenerateResource.Cache
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormAdmin.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormJurnal.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormScheta.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormSotrudniki.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormLimit.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormCassBook.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.csprojResolveAssemblyReference.cache
+C:\Users\Marisha_ChV\Desktop\DIPLOM 2 — копия\CashOption\obj\Debug\CashOption.FormDelete.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormDelete.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormAdmin.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormCassBook.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormJurnal.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormLimit.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormScheta.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.FormSotrudniki.resources
+C:\Users\Marisha_ChV\Desktop\DIPLOM\CashOption\obj\Debug\CashOption.csprojResolveAssemblyReference.cache
